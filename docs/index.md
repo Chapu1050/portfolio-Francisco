@@ -3,9 +3,9 @@
 layout: home
 
 hero:
-  name: "TODO: Title"
-  text: "TODO: Subtitle"
-  tagline: "TODO: Tagline"
+  name: "Francisco Colón"
+  text: "A to be amazing portfolio"
+  tagline: "and more.."
   actions:
     - theme: brand
       text: Template Repository

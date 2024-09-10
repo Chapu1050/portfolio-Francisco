@@ -38,7 +38,7 @@ It seems like initially there was some disinterest due to Annie’s overexposure
 4. Assuming there is some sort of feed feature, we can allow users to sort by plants or animals in order to consume media related to that plant or animal specifically. This will allowusers such as  Annie to search and consume harvest mice and hyrax content.
 
 
----
+
 
 ## Planning Materials: ##
 

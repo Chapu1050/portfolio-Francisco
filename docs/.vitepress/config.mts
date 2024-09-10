@@ -19,6 +19,11 @@ export default defineConfig({
         text: "Blogs",
         link: "/blogs",
       },
+
+      {
+        text: "Assignments",
+        link: "/assignments",
+      }
     ],
 
     socialLinks: [{ icon: "github", link: "https://github.com/61040-fa24" }],

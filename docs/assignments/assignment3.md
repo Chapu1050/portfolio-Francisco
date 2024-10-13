@@ -77,7 +77,7 @@ Concepts
       2. removePost(post: Post) 
 
 Wireframe:    
-[BloomScout Figma Wireframe](https://www.figma.com/proto/1GOhPAuDII7vDkCkJLIUQm/BloomScoute-basic-Wireframe?node-id=0-1&t=q2qfMsPKwOlQrqhO-1)
+[BloomScout Figma Wireframe]("https://www.figma.com/proto/1GOhPAuDII7vDkCkJLIUQm/BloomScoute-basic-Wireframe?node-id=0-1&t=q2qfMsPKwOlQrqhO-1")
 
 Please note that the wireframe is not entirely complete: I still have not gotten around to how to specifically add gift giving and I have not included multiple pages for the scrapbook yet.
 

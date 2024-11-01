@@ -1,5 +1,5 @@
 ---
-title: Design Reflection for BloomScout
+title: Frontend for BloomScout
 layout: doc
 ---
 

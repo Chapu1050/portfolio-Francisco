@@ -3,7 +3,7 @@ title: "Project Phase 3: Convergent Design"
 layout: doc
 ---
 
-# Phase 3 `[Convergent Design]`
+# Phase 3 
 
 
 
